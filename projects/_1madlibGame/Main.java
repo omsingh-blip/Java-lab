@@ -17,7 +17,7 @@ Someone else asks you for words:
 
 */
 
-package projects.madlibGame;
+package projects._1madlibGame;
 
 public class Main {
     
