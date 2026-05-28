@@ -1,3 +1,5 @@
+package projects._2compoundInterestCalci;
+
 // The compound interest formula is used to calculate the future value of an investment or loan when interest is applied not only to the principal but also to accumulated interest.
 
 // Formula

@@ -1,3 +1,5 @@
+package _8StringMethods;
+
 // | Method                        | Description                      | Example                     | Output |
 // | ---                           | ---                              | ---                         | ---    |
 // | length()                      | Returns number of characters     | "Hello".length()            | 5 |

@@ -1,3 +1,5 @@
+package _6PrintF;
+
 // | Specifier | Meaning        | Example Output |
 // | ---       | ---            | ---            |
 // | %d        | Integer        | ``System.out.printf("%d", 42); → 42 |

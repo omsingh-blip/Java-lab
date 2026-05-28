@@ -1,8 +1,10 @@
+package _9ternaryOperator;
+
 public class TernaryOperatorDemo {
 
     public static void main(String[] args) {
 
-        
+
         // Example 1: Simple Check
         int age = 20;
         String result = (age >= 18) ? "Adult" : "Minor";

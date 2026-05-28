@@ -5,15 +5,16 @@ public class Hypotenuse{
     public static void main(String[] args){
 
         Scanner scanner = new Scanner(System.in);
-
-        double a, b, c;
+        double a, b;
 
         System.out.println("Enter a and b");
         a = scanner.nextDouble();
-        b= scanner.nextDouble();
+        b = scanner.nextDouble();
+        scanner.close();    
 
-        c = Math.sqrt(Math.pow(a, 2) + Math.pow(b, 2));
-
+        double c = Math.hypot(a, b);
         System.out.println("The hypotenuse of the triangle is: " + c);
+
+        scanner.close();
     }
 }
